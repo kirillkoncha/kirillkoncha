@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kirillkoncha
-- 👀 I’m interested in linguistics, NLP and ML
-- 🌱 I’m currently learning computational linguistics
+- 👨‍💻 I’m workings as ML engineer solving NLP and CV tasks
+- 🌱 I’m currently learning clinical linguistics as part of the EMCL+ programme
 - 📫 How to reach me majortomblog@gmail.com; tg: @dalecooperstan
 
 <!---
